@@ -1,8 +1,7 @@
-package org.example;
-
 import java.util.Scanner;
 
 public class Bee1067 {
+
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
