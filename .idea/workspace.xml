@@ -5,14 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce023743-4d23-46bd-a042-703c675d860f" name="Changes" comment="commit again">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bee1159.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,10 +82,41 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bee1003.executor": "Run",
+    "Application.Bee1035.executor": "Run",
+    "Application.Bee1036.executor": "Run",
+    "Application.Bee1037.executor": "Run",
+    "Application.Bee1038.executor": "Run",
+    "Application.Bee1040.executor": "Run",
+    "Application.Bee1041.executor": "Run",
+    "Application.Bee1042.executor": "Run",
+    "Application.Bee1043.executor": "Run",
+    "Application.Bee1044.executor": "Run",
+    "Application.Bee1045.executor": "Run",
+    "Application.Bee1046.executor": "Run",
+    "Application.Bee1047.executor": "Run",
+    "Application.Bee1048.executor": "Run",
+    "Application.Bee1049.executor": "Run",
+    "Application.Bee1050.executor": "Run",
+    "Application.Bee1051.executor": "Run",
+    "Application.Bee1052.executor": "Run",
+    "Application.Bee1060.executor": "Run",
+    "Application.Bee1064.executor": "Run",
+    "Application.Bee1065.executor": "Run",
+    "Application.Bee1066.executor": "Run",
+    "Application.Bee1070.executor": "Run",
+    "Application.Bee1114.executor": "Run",
+    "Application.Bee1115.executor": "Run",
+    "Application.Bee1117.executor": "Run",
+    "Application.Bee1118.executor": "Run",
+    "Application.Bee1131.executor": "Run",
+    "Application.Bee1134.executor": "Run",
+    "Application.Bee1154.executor": "Run",
+    "Application.Bee1159.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/betog/IdeaProjects/beecrowd/beecrowd-java",
+    "last_opened_file_path": "C:/Users/betog/IdeaProjects/beecrowd/1048",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -49,6 +129,30 @@
       <option name="presentableId" value="Default" />
       <updated>1735612613678</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit again">
+      <option name="closed" value="true" />
+      <created>1735620992658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735620992658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit again" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit again" />
   </component>
 </project>
