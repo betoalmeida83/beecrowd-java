@@ -1,19 +1,16 @@
 import java.util.Scanner;
 
-public class Bee1153 {
+public class Bee1078 {
 
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
 
         int N = input.nextInt();
-        int fatorial = 1;
 
-        for (int i = 1; i <= N; i++) {
-            fatorial *= i;
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i +" x "+ N +" = "+ i*N);
         }
-
-        System.out.println(fatorial);
 
         input.close();
 
